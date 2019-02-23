@@ -7,6 +7,8 @@
 
 <h2> Check website @ <a href="https://ricardojacinto.github.io/party-society/index.html"> party-society </a> </h2>
 
+<img src="https://i.imgur.com/7xVRELs.png">
+
 <h2> Used technologies: </h2>
 
 <ul> 

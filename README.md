@@ -1,7 +1,7 @@
-# party-society
-The purpose of this project was to make a small webiste for an event planning client (fictional). 
 
 <h1> Party Society Project </h1>
+
+
 
 <p> The purpose of this project was to make a small webiste for an event planning client (fictional). </p>
 
